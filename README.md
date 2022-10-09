@@ -8,6 +8,7 @@ This is an app that let you search for song terms, display them, and add the sav
 3. Run `npm install && npm start` locally
 4. Enjoy
 
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
