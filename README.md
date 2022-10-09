@@ -1,3 +1,14 @@
+# Jammming (Codecademy)
+This is an app that let you search for song terms, display them, and add the saved playlist to your spotify account.
+![](screenshot.png)
+
+## HOW TO USE
+1. Go to [https://developer.spotify.com/dashboard](https://developer.spotify.com/dashboard) and register a developer app, fill in the $CLIENT_ID in util/Spotify.js
+2. At your spotify developer console, add `http://localhost:3000/` as redirect_uri
+3. Run `npm install && npm start` locally
+4. Enjoy
+
+---
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
